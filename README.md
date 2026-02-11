@@ -3,21 +3,29 @@ UI/UX case study of a marketplace app connecting Nigerians abroad to authentic l
 ## Screenshots
 
 ### Walkthrough
-![Walkthrough 1](walkthrough-1.png)
+![Unsplash](unsplash.png)
+![Walkthrough 1](walkthrough.png)
 ![Walkthrough 2](walkthrough-2.png)
 ![Walkthrough 3](walkthrough-3.png)
 
 ### Authentication
 ![Sign Up](sign-up.png)
+![Sign In](sign-in.png)
 
 ### Home
 ![Home](home.png)
+### Home
+![Home-hamnurger](home-hamburger.png)
 
 ### Menu
-![Menu](menu-1.png)
+![Menu](menu.png)
+![Menu](menu-2.png)
+![Menu](menu-3.png)
+![Menu](menu-4.png)
 
 ### Checkout
 ![Checkout](checkout.png)
+![Checkou-information](checkout-informations.png)
 
 ### Dark Mode
 ![Dark Mode](darkmode.png)
@@ -27,3 +35,9 @@ UI/UX case study of a marketplace app connecting Nigerians abroad to authentic l
 
 ### Profile
 ![Profile](profile.png)
+
+### Settings
+![Settings](settings.png)
+
+### Notifications
+![Notifications](notification.png)
