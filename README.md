@@ -2,9 +2,23 @@
 UI/UX case study of a marketplace app connecting Nigerians abroad to authentic local restaurants. Designed and prototyped in Figma.
 
 # About Foodie9ja
-Foodie9ja is a marketplace mobile app concept designed to help Nigerians living abroad easily discover and order authentic Nigerian meals in their area. I designed the complete product flow from onboarding to checkout, focusing on usability and cultural connection.
-The logo, icons, and illustrations were created in Adobe Illustrator, while the UI design, interactive components (such as cart quantity adjustment, rating system, favorites feature, and dark mode toggle), and full prototype were developed in Figma.
-This project demonstrates my ability to combine branding, interface design, and interaction design to build a community-focused digital product.
+Foodie9ja is a marketplace mobile app concept designed to support Nigerians living abroad who struggle to locate authentic Nigerian restaurants in their area. Many Nigerians in the diaspora experience homesickness and cultural disconnection, especially when they find it difficult to adapt to foreign meals or cannot easily access familiar local dishes.
+The idea behind Foodie9ja is to create a centralized digital platform where Nigerian restaurant owners abroad can list their businesses, and users can easily discover, browse, and order authentic Nigerian meals based on their location.
+I independently handled the full design process for this project. The logo, icons, and illustrations were created in Adobe Illustrator to reflect warmth, cultural identity, and familiarity. The interface design, interaction components, and complete user flow were built in Figma.
+
+# The app includes:
+	•	Onboarding experience introducing the platform
+	•	Sign up and login system
+	•	Categorized food menu (Breakfast, Meals, Appetizers)
+	•	Add-to-cart functionality with quantity adjustment
+	•	Interactive star rating system
+	•	Favorites feature
+	•	Dark mode toggle for accessibility and comfort
+	•	Checkout flow with delivery details
+	•	Order confirmation screen
+	•	Profile and settings management
+The prototype demonstrates a complete end-to-end flow from onboarding to checkout, showcasing interaction design, usability considerations, and product thinking.
+This project reflects my interest in designing community-focused digital solutions that solve real-life cultural and accessibility challenges while maintaining clean visual hierarchy and intuitive navigation.
 
 ## Screenshots
 
